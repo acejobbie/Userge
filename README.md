@@ -1,3 +1,4 @@
+![20230304_051938](https://github.com/acejobbie/Userge/assets/121753552/fee2b9ca-cfda-4ce5-8d62-a204f6e76b5d)
 <p align="center">
     <a href="https://github.com/UsergeTeam/Userge">
         <img src="https://telegra.ph/file/f3aed2f6f2d4a1ad7831d.png" alt="Userge">
